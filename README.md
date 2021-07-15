@@ -1,4 +1,4 @@
-Welcome to Rabbit Rabbit: Emotional Software Engineering, my static (SSG) blog (I built the frontend with Next.js and ghost, a headless CMS).
+In my attempt to learn what Next.js is all about, I built this static (SSG) blog's frontend with Next.js and ghost, a headless CMS) using [this](https://github.com/GitHubFilipe/nextjs-ghost-tutorial) template as my guide.
 
 Step 1 Use the Ghost CMS interface to edit and publish the posts and pages of my blog.
 
